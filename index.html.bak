@@ -8,7 +8,7 @@
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Cory Byrnes - Technical Writer and Communication Specialist</title>
+    <title>Cory Byrnes - Technical Writer</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -16,12 +16,13 @@
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-144x144-precomposed.png">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
+
       rel="stylesheet">
     <link rel="stylesheet" href="css/normalize.min.css">
     <link rel="stylesheet" href="css/main.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+    <script>window.jQuery ||<span bluegriffonstandalone='true' bluegriffonsourceselected='true'></span> document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
     <script src="js/vendor/jquery.hashchange.min.js"></script>
     <script src="js/vendor/jquery.easytabs.min.js"></script>
     <script src="js/main.js"></script>
@@ -37,7 +38,7 @@
         <header id="header">
           <div id="logo">
             <h2> Cory Byrnes </h2>
-            <h4> Technical Writer / Technical Communication Specialist </h4>
+            <h4> Technical Writer </h4>
           </div>
         </header>
         <!-- Header End -->
@@ -60,7 +61,8 @@
             <div id="about">
               <section class="clearfix">
                 <div class="g2">
-                  <div class="photo"> <img src="http://i.imgur.com/4BDui5j.jpg"
+                  <div class="photo"> <img src="http://i.imgur.com/4BDui5j.jpg"
+
                       alt="Cory Byrnes"> </div>
                   <div class="info">
                     <h2> Cory Byrnes </h2>
@@ -118,7 +120,7 @@
             <div id="resume">
               <section class="clearfix">
                 <div class="g2">
-                  <h3> Work Experience </h3>
+                  <h3> Experience </h3>
                   <ul class="no-list work">
                     <li>
                       <h5> Technical Writer - Freelance</h5>
@@ -131,7 +133,8 @@
                       <span class="label label-info">2013-Present</span>
                       <p> Pride<span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
                           ✦</span> Dedication <span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">✦
-                        </span>Craftsmanship<span style="color: rgba(0, 0, 0, 0.55);"><span
+                        </span>Craftsmanship<span style="color: rgba(0, 0, 0, 0.55);"><span
+
                             style="font-family: &quot;Source Sans Pro&quot;,Helvetica,Arial,sans-serif,&quot;Hiragino Kaku Gothic Pro&quot;,Meiryo,&quot;Hiragino Sans GB W3&quot;,&quot;Noto Naskh Arabic&quot;,&quot;Droid Arabic Naskh&quot;,&quot;Geeza Pro&quot;,&quot;Simplified Arabic&quot;,&quot;Noto Sans Thai&quot;,Thonburi,Dokchampa,&quot;Droid Sans Thai&quot;,&quot;Droid Sans Fallback&quot;,-apple-system,&quot;.SFNSDisplay-Regular&quot;,&quot;Heiti SC&quot;,&quot;Microsoft Yahei&quot;,&quot;Segoe UI&quot;;">
                           </span></span><span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></p>
                     </li>
@@ -163,7 +166,8 @@
                       <h5> Network Administration - Academy of Learning </h5>
                       <span class="label label-warning">2008</span>
                       <p> <span style="color: rgba(0, 0, 0, 0.7); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Microsoft
-                          MCSA and Comptia A+, Network+, Security+ Preparation Program</span></p>
+                          MCSA and Comptia A+, Network+, Security+ Preparation
+                          Program</span></p>
                     </li>
                   </ul>
                 </div>
@@ -186,7 +190,7 @@
                     <div class="meter asbestos"> <span style="width: 50%"><span>Ubuntu</span></span>
                     </div>
                     <div class="break"></div>
-                    <h5> Skills</h5>
+                    <h5> Traits</h5>
                     <div class="meter emerald"> <span style="width: 100%"><span>Leadership</span></span>
                     </div>
                     <div class="meter carrot"> <span style="width: 100%"><span>Integrity</span></span>
@@ -215,56 +219,68 @@
             <div id="portfolio">
               <section class="clearfix">
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/1"
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/1"
+
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/1"
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/1"
+
                           class="btn">Business Documents</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/2"
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/2"
+
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/2"
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/2"
+
                           class="btn">Technical Documentation</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/3"
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/3"
+
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/3"
-                          class="btn">Website Content Creation</a> </div>
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/3"
+
+                          class="btn">Website Content</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="break"></div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/4"
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/4"
+
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/4"
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/4"
+
                           class="btn">Product Descriptions</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/5"
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/5"
+
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/5"
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/5"
+
                           class="btn">Help Files</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/business/2"
+                  <div class="image"> <img src="http://lorempixel.com/306/306/business/2"
+
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/business/2"
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/business/2"
+
                           class="btn">Policy and Procedures</a> </div>
                     </div>
                   </div>
@@ -298,7 +314,7 @@
                     <div class="sny-icon"> <i class="icon-user"></i> </div>
                     <div class="sny-icon-content">
                       <h4>About Me</h4>
-                      <p>I am currently available for hire. </p>
+                      <p>I am available for hire!</p>
                     </div>
                   </div>
                 </div>
