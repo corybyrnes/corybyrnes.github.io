@@ -16,8 +16,7 @@
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-144x144-precomposed.png">
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
-
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
       rel="stylesheet">
     <link rel="stylesheet" href="css/normalize.min.css">
     <link rel="stylesheet" href="css/main.css">
@@ -61,8 +60,7 @@
             <div id="about">
               <section class="clearfix">
                 <div class="g2">
-                  <div class="photo"> <img src="http://i.imgur.com/4BDui5j.jpg"
-
+                  <div class="photo"> <img src="http://i.imgur.com/4BDui5j.jpg"
                       alt="Cory Byrnes"> </div>
                   <div class="info">
                     <h2> Cory Byrnes </h2>
@@ -92,7 +90,7 @@
                     <div class="item-box clearfix"> <i class="icon-envelope"></i>
                       <div class="item-data">
                         <h3><a href="mailto:corybyrnes@gmail.com">corybyrnes@gmail.com</a></h3>
-                        <p>Email Address</p>
+                        <p>Email</p>
                       </div>
                     </div>
                   </div>
@@ -125,30 +123,32 @@
                     <li>
                       <h5> Technical Writer - Freelance</h5>
                       <span class="label label-info">Present</span>
-                      <p> Technical writer available for long or short term
+                      <p> Technical writer available for long and short term
                         projects. </p>
                     </li>
                     <li>
                       <h5> Carpenter - Doyle Construction </h5>
                       <span class="label label-info">2013-Present</span>
-                      <p> Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Aliquam sodales urna non odio egestas tempor. Nunc
-                        vel vehicula ante. </p>
+                      <p> Pride<span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+                          ✦</span> Dedication <span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">✦
+                        </span>Craftsmanship<span style="color: rgba(0, 0, 0, 0.55);"><span
+                            style="font-family: &quot;Source Sans Pro&quot;,Helvetica,Arial,sans-serif,&quot;Hiragino Kaku Gothic Pro&quot;,Meiryo,&quot;Hiragino Sans GB W3&quot;,&quot;Noto Naskh Arabic&quot;,&quot;Droid Arabic Naskh&quot;,&quot;Geeza Pro&quot;,&quot;Simplified Arabic&quot;,&quot;Noto Sans Thai&quot;,Thonburi,Dokchampa,&quot;Droid Sans Thai&quot;,&quot;Droid Sans Fallback&quot;,-apple-system,&quot;.SFNSDisplay-Regular&quot;,&quot;Heiti SC&quot;,&quot;Microsoft Yahei&quot;,&quot;Segoe UI&quot;;">
+                          </span></span><span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></p>
                     </li>
                     <li>
                       <h5> Business Development Representative - NuTech IT
                         Solutions </h5>
                       <span class="label label-info">2011-2012</span>
-                      <p> Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Aliquam sodales urna non odio egestas tempor. Nunc
-                        vel vehicula ante. </p>
+                      <p> Customer Service <span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">✦
+                        </span>Technical Writing<span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+                          ✦</span> Team Building&nbsp; </p>
                     </li>
                     <li>
                       <h5> Manager - Fastenal Company </h5>
                       <span class="label label-info">2002-2009</span>
-                      <p> Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Aliquam sodales urna non odio egestas tempor. Nunc
-                        vel vehicula ante. </p>
+                      <p> Leadership <span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">✦
+                        </span>Business Operations<span style="color: rgba(0, 0, 0, 0.55); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">
+                          ✦</span> Sales</p>
                     </li>
                   </ul>
                   <h3> Education </h3>
@@ -156,16 +156,14 @@
                     <li>
                       <h5> Technical Writing - Vancouver Island University </h5>
                       <span class="label label-success">2012</span>
-                      <p> Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Aliquam sodales urna non odio egestas tempor. Nunc
-                        vel vehicula ante. </p>
+                      <p> <span style="color: rgba(0, 0, 0, 0.7); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Technical
+                          Communications Program</span></p>
                     </li>
                     <li>
                       <h5> Network Administration - Academy of Learning </h5>
                       <span class="label label-warning">2008</span>
-                      <p> Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Aliquam sodales urna non odio egestas tempor. Nunc
-                        vel vehicula ante. </p>
+                      <p> <span style="color: rgba(0, 0, 0, 0.7); font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif, &quot;Hiragino Kaku Gothic Pro&quot;, Meiryo, &quot;Hiragino Sans GB W3&quot;, &quot;Noto Naskh Arabic&quot;, &quot;Droid Arabic Naskh&quot;, &quot;Geeza Pro&quot;, &quot;Simplified Arabic&quot;, &quot;Noto Sans Thai&quot;, Thonburi, Dokchampa, &quot;Droid Sans Thai&quot;, &quot;Droid Sans Fallback&quot;, -apple-system, &quot;.SFNSDisplay-Regular&quot;, &quot;Heiti SC&quot;, &quot;Microsoft Yahei&quot;, &quot;Segoe UI&quot;; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Microsoft
+                          MCSA and Comptia A+, Network+, Security+ Preparation Program</span></p>
                     </li>
                   </ul>
                 </div>
@@ -217,68 +215,56 @@
             <div id="portfolio">
               <section class="clearfix">
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/1"
-
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/1"
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/1"
-
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/1"
                           class="btn">Business Documents</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/2"
-
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/2"
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/2"
-
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/2"
                           class="btn">Technical Documentation</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/3"
-
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/3"
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/3"
-
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/3"
                           class="btn">Website Content Creation</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="break"></div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/4"
-
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/4"
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/4"
-
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/4"
                           class="btn">Product Descriptions</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/5"
-
+                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/5"
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/5"
-
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/5"
                           class="btn">Help Files</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/business/2"
-
+                  <div class="image"> <img src="http://lorempixel.com/306/306/business/2"
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/business/2"
-
+                      <div class="image-link"> <a href="http://lorempixel.com/606/606/business/2"
                           class="btn">Policy and Procedures</a> </div>
                     </div>
                   </div>
@@ -323,8 +309,7 @@
         </div>
         <!-- End Tab Container -->
         <footer>
-          <p>Please Contact For Link To Detailed Portfolio
-          </p>
+          <p>Please Contact For Link To Detailed Portfolio </p>
         </footer>
       </div>
       <!-- #main --> </div>
