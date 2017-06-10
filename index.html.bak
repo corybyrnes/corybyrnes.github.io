@@ -217,7 +217,7 @@
             <div id="portfolio">
               <section class="clearfix">
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/1"
+                  <div class="image"> <img src="http://i.imgur.com/0A5omBX.jpg"
 
                       alt="">
                     <div class="image-overlay">
@@ -228,7 +228,7 @@
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/2"
+                  <div class="image"> <img src="http://i.imgur.com/doXga9G.jpg"
 
                       alt="">
                     <div class="image-overlay">
@@ -239,7 +239,7 @@
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/3"
+                  <div class="image"> <img src="http://i.imgur.com/doXga9G.jpg"
 
                       alt="">
                     <div class="image-overlay">
@@ -255,14 +255,14 @@
 
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/sports/4"
+                      <div class="image-link"> <a href="http://i.imgur.com/5vy9dvL.jpg"
 
                           class="btn">Product Descriptions</a> </div>
                     </div>
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/sports/5"
+                  <div class="image"> <img src="http://i.imgur.com/5vy9dvL.jpg"
 
                       alt="">
                     <div class="image-overlay">
@@ -273,11 +273,11 @@
                   </div>
                 </div>
                 <div class="g1">
-                  <div class="image"> <img src="http://lorempixel.com/306/306/business/2"
+                  <div class="image"> <img src="http://i.imgur.com/5pMRDef.jpg"
 
                       alt="">
                     <div class="image-overlay">
-                      <div class="image-link"> <a href="http://lorempixel.com/606/606/business/2"
+                      <div class="image-link"> <a href="http://i.imgur.com/5pMRDef.jpg"
 
                           class="btn">Policy and Procedures</a> </div>
                     </div>
@@ -293,7 +293,7 @@
                   <div class="sny-icon-box">
                     <div class="sny-icon"> <i class="icon-globe"></i> </div>
                     <div class="sny-icon-content">
-                      <h4>My Address</h4>
+                      <h4>Location</h4>
                       <p>Vancouver Island, British Columbia, Canada</p>
                     </div>
                   </div>
@@ -302,7 +302,7 @@
                   <div class="sny-icon-box">
                     <div class="sny-icon"> <i class="icon-phone"></i> </div>
                     <div class="sny-icon-content">
-                      <h4>Mobile Number</h4>
+                      <h4>Cell / Text</h4>
                       <p>250-248-7915</p>
                     </div>
                   </div>
@@ -312,7 +312,7 @@
                     <div class="sny-icon"> <i class="icon-user"></i> </div>
                     <div class="sny-icon-content">
                       <h4>About Me</h4>
-                      <p>I am available for hire!</p>
+                      <span style="color: rgb(73, 73, 73); font-family: &quot;Gotham SSm&quot;, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-line; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">I am currently looking for opportunities where I can focus on new technology and enhance my technical writing portfolio.</span>
                     </div>
                   </div>
                 </div>
