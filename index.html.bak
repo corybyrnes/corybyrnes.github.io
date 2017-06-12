@@ -49,8 +49,8 @@
                   About Me</span></a> </li>
             <li class="tab"> <a href="#resume"><i class="icon-file-text"></i><span>
                   Resume</span></a> </li>
-            <li class="tab"> <a href="#portfolio"><i class="icon-heart"></i><span>
-                  Portfolio</span></a> </li>
+            <li class="tab"> <a href="#services"><i class="icon-heart"></i><span>
+                  Services</span></a> </li>
             <li class="tab"> <a href="#contact"><i class="icon-envelope"></i><span>
                   Contact</span></a> </li>
           </ul>
@@ -78,7 +78,7 @@
                   <div class="main-links sidebar">
                     <ul>
                       <li> <a href="#resume">Resume</a> </li>
-                      <li> <a href="#portfolio">Portfolio</a> </li>
+                      <li> <a href="#portfolio">Services</a> </li>
                       <li> <a href="#contact">Hire Me</a> </li>
                       <li> <a href="#Usfeul%20Links">Useful Links</a> </li>
                     </ul>
@@ -129,10 +129,10 @@
                     </li>
                     <li>
                       <p>Technical writer available for long and short term
-                        projects. Experience technical documentation and
-                        business writing (user manuals, FAQ documents, Wiki
-                        administration, blogging, technical editing, product
-                        descriptions, sales materials)</p>
+                        projects. Experience with creating technical
+                        documentation and business writing (user manuals, FAQ
+                        documents, Wiki administration, blogging, technical
+                        editing, product descriptions, sales materials)</p>
                     </li>
                     <li>
                       <h5> Carpenter - Doyle Construction </h5>
@@ -158,10 +158,10 @@
                     </span><br>
                   <ul class="no-list work">
                     <li>
-                      <p>Developed&nbsp; content and business initiatives,
+                      <p>Developed&nbsp; content and business initiatives
                         including website, social media sites (Facebook and
                         Twitter), trade shows, media relations, e-newsletters,
-                        sales updates and loyalty and value-add programs.</p>
+                        sales updates, and value-add programs.</p>
                     </li>
                     <h5>Manager - Fastenal</h5>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -175,9 +175,7 @@
                   order to boost previous year's sales goals. Conducted cold
                   calls with small to medium sized businesses in various types
                   of&nbsp; industries. Grew existing customer base with a loyal,
-                  customer focused service. Managed account collections for
-                  assigned accounts.<br>
-                  <br>
+                  customer focused service. <br>
                   <h3><br>
                   </h3>
                   <h3>Education </h3>
@@ -237,8 +235,8 @@
               </section>
             </div>
             <!-- End Resume Tab Data -->
-            <!-- Portfolio Tab Data -->
-            <div id="portfolio">
+            <!-- services Tab Data -->
+            <div id="services">
               <section class="clearfix">
                 <div class="g1">
                   <div alt="">
@@ -253,7 +251,7 @@
                 </div>
               </section>
             </div>
-            <!-- End Portfolio Data -->
+            <!-- End services Data -->
             <!-- Contact Tab Data -->
             <div id="contact">
               <section class="clearfix">
@@ -280,7 +278,7 @@
                     <div class="sny-icon"> <i class="icon-user"></i> </div>
                     <div class="sny-icon-content">
                       <h4>About Me</h4>
-                      <span style="color: rgb(73, 73, 73); font-family: &quot;Gotham SSm&quot;, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-line; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">I am currently looking for opportunities where I can focus on new technology and enhance my technical writing portfolio. </span></div>
+                      <span style="color: rgb(73, 73, 73); font-family: &quot;Gotham SSm&quot;, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-line; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">I am currently looking for new opportunities where I can build new relationships and enhance my technical writing portfolio. </span></div>
                   </div>
                 </div>
                 <div class="break"></div>
